@@ -1,1 +1,1 @@
-import { Subscriptions } from "@ringcentral/subscriptions";
+const { Subscriptions } = require("@ringcentral/subscriptions");
